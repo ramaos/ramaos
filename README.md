@@ -5,7 +5,7 @@
 
 - 👨‍💻 Mes projets réalisés sur [https://word-dev-portfolio.com](https://word-dev-portfolio.com)
 
-- 📫 Mon adress mail: **amarbenamar73@gmail.com**
+- 📫 Mon adresse mail: **amarbenamar73@gmail.com**
 
 <h3 align="left">Vous pouvez aussi me contacter sur:</h3>
 <p align="left">
